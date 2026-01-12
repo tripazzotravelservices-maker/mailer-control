@@ -1,0 +1,50 @@
+<?php
+$dateTimeUTC = gmdate("d-M-Y, H:i") . " UTC";
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Account Alert – Action Required</title>
+<style>
+  body, html { margin: 0; padding: 0; width: 100%; background-color: #ffffff; font-family: Arial, Helvetica, sans-serif; }
+  .wrapper { width: 100%; max-width: 100%; margin: 0; background-color: #ffffff; }
+  .logo-bar { padding: 14px 24px; background-color: #ffffff; text-align: left; }
+  .logo-bar img { height: 34px; display: block; }
+  .top-bar { background-color: #131921; color: #ffffff; padding: 14px 24px; font-size: 20px; font-weight: bold; }
+  .content { padding: 20px 24px; font-size: 16px; color: #111111; line-height: 1.5; }
+  .warning { background-color: #fff5e6; border-left: 5px solid #f0c14b; padding: 14px 18px; margin: 18px 24px; color: #7a4a00; font-weight: bold; font-size: 16px; }
+  .transaction-box { background-color: #f7fafa; border: 1px solid #d5d9d9; padding: 16px; margin: 18px 24px; font-size: 15px; color: #111; }
+  .transaction-box strong { display: inline-block; width: 180px; }
+  ul { font-size: 15px; margin-left: 22px; }
+  .cta { display: inline-block; margin: 22px 24px; padding: 14px 28px; background-color: #f0c14b; border: 1px solid #a88734; border-radius: 4px; color: #111111; font-size: 16px; font-weight: bold; text-decoration: none; }
+  .footer { padding: 18px 24px; font-size: 13px; color: #565959; border-top: 1px solid #e3e6e6; background-color: #f7fafa; }
+  .simulation { margin-top: 14px; font-size: 12px; color: #444; background-color: #f1f1f1; padding: 12px; border-left: 5px solid #999; }
+  .contact-number { color: #ff0000; font-weight: bold; font-size: 17px; text-decoration: none; }
+  .contact-number:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<div class="wrapper">
+  <div class="logo-bar"><img src="https://totalavantivirus.shop/amaz.png" alt="Logo"></div>
+  <div class="top-bar">Payment Verification Required</div>
+  <div class="content">Important Security Notice,<br><br>We're reaching out regarding a <strong>high-value digital currency transaction</strong> that requires additional verification. This payment attempt has been flagged by our monitoring systems.</div>
+  <div class="warning">Failure to verify may result in transaction cancellation and account review.</div>
+  <div class="transaction-box">
+    <strong>Transaction ID:</strong> TXN-9F3A82B7C1<br>
+    <strong>Date & Time:</strong> 12-Jan-2026, 01:00 AM UTC<br>
+    <strong>Amount:</strong> $1,349.00 USD<br>
+    <strong>Payment Type:</strong> Digital Currency (Bitcoin)<br>
+    <strong>Status:</strong> Pending Authorization<br>
+    <strong>Access Source:</strong> Unrecognized Device
+  </div>
+  <div class="content">To protect your account from unauthorized access, please confirm whether you authorized this Bitcoin purchase. Our support team is available 24/7 to assist with any concerns regarding this pending transaction.<br><br>Contact support immediately to secure your account at <a href="tel:+18016138358" class="contact-number">+1 801-613-8358</a>.</div>
+  <a href="tel:+18016138358" class="cta">Verify Transaction</a>
+  <div class="footer">
+    This verification request is automatically generated for security purposes.
+    <div class="simulation">⚠️ <strong>SECURITY ALERT</strong><br>This email is part of an internal phishing and threat analysis team. Contact us immediately if you find this transaction unauthorized.</div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,368 @@
+{
+  "meta": {
+    "credential_count": 50,
+    "batch_size": 50,
+    "reuse_policy": "round-robin"
+  },
+  "instances": {
+    "1": {
+      "gmail_user": "eotgplticnoaicrfmcrsa@gmail.com",
+      "gmail_pass": "gqfypimenftufive",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body1.html"
+    },
+    "2": {
+      "gmail_user": "aelndodrsjnsigxtrusep@gmail.com",
+      "gmail_pass": "nxrlibycddkjzouq",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body2.html"
+    },
+    "3": {
+      "gmail_user": "nenujdarodmknselcwbqa@gmail.com",
+      "gmail_pass": "huhyijwpopcnqgye",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body3.html"
+    },
+    "4": {
+      "gmail_user": "yylcudedlaede@gmail.com",
+      "gmail_pass": "vuuyyoirgikuirge",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body4.html"
+    },
+    "5": {
+      "gmail_user": "pjarvelwmptblkedek@gmail.com",
+      "gmail_pass": "jwkwddzsyazrntkw",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body5.html"
+    },
+
+    "6": {
+      "gmail_user": "eotgplticnoaicrfmcrsa@gmail.com",
+      "gmail_pass": "gqfypimenftufive",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body6.html"
+    },
+    "7": {
+      "gmail_user": "aelndodrsjnsigxtrusep@gmail.com",
+      "gmail_pass": "nxrlibycddkjzouq",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body7.html"
+    },
+    "8": {
+      "gmail_user": "nenujdarodmknselcwbqa@gmail.com",
+      "gmail_pass": "huhyijwpopcnqgye",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body8.html"
+    },
+    "9": {
+      "gmail_user": "yylcudedlaede@gmail.com",
+      "gmail_pass": "vuuyyoirgikuirge",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body9.html"
+    },
+    "10": {
+      "gmail_user": "pjarvelwmptblkedek@gmail.com",
+      "gmail_pass": "jwkwddzsyazrntkw",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body10.html"
+    },
+
+    "11": {
+      "gmail_user": "eotgplticnoaicrfmcrsa@gmail.com",
+      "gmail_pass": "gqfypimenftufive",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body1.html"
+    },
+    "12": {
+      "gmail_user": "aelndodrsjnsigxtrusep@gmail.com",
+      "gmail_pass": "nxrlibycddkjzouq",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body2.html"
+    },
+    "13": {
+      "gmail_user": "nenujdarodmknselcwbqa@gmail.com",
+      "gmail_pass": "huhyijwpopcnqgye",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body3.html"
+    },
+    "14": {
+      "gmail_user": "yylcudedlaede@gmail.com",
+      "gmail_pass": "vuuyyoirgikuirge",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body4.html"
+    },
+    "15": {
+      "gmail_user": "pjarvelwmptblkedek@gmail.com",
+      "gmail_pass": "jwkwddzsyazrntkw",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body5.html"
+    },
+
+    "16": {
+      "gmail_user": "eotgplticnoaicrfmcrsa@gmail.com",
+      "gmail_pass": "gqfypimenftufive",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body6.html"
+    },
+    "17": {
+      "gmail_user": "aelndodrsjnsigxtrusep@gmail.com",
+      "gmail_pass": "nxrlibycddkjzouq",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body7.html"
+    },
+    "18": {
+      "gmail_user": "nenujdarodmknselcwbqa@gmail.com",
+      "gmail_pass": "huhyijwpopcnqgye",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body8.html"
+    },
+    "19": {
+      "gmail_user": "yylcudedlaede@gmail.com",
+      "gmail_pass": "vuuyyoirgikuirge",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body9.html"
+    },
+    "20": {
+      "gmail_user": "pjarvelwmptblkedek@gmail.com",
+      "gmail_pass": "jwkwddzsyazrntkw",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body10.html"
+    },
+
+    "21": {
+      "gmail_user": "eotgplticnoaicrfmcrsa@gmail.com",
+      "gmail_pass": "gqfypimenftufive",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body1.html"
+    },
+    "22": {
+      "gmail_user": "aelndodrsjnsigxtrusep@gmail.com",
+      "gmail_pass": "nxrlibycddkjzouq",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body2.html"
+    },
+    "23": {
+      "gmail_user": "nenujdarodmknselcwbqa@gmail.com",
+      "gmail_pass": "huhyijwpopcnqgye",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body3.html"
+    },
+    "24": {
+      "gmail_user": "yylcudedlaede@gmail.com",
+      "gmail_pass": "vuuyyoirgikuirge",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body4.html"
+    },
+    "25": {
+      "gmail_user": "pjarvelwmptblkedek@gmail.com",
+      "gmail_pass": "jwkwddzsyazrntkw",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body5.html"
+    },
+
+    "26": {
+      "gmail_user": "eotgplticnoaicrfmcrsa@gmail.com",
+      "gmail_pass": "gqfypimenftufive",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body6.html"
+    },
+    "27": {
+      "gmail_user": "aelndodrsjnsigxtrusep@gmail.com",
+      "gmail_pass": "nxrlibycddkjzouq",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body7.html"
+    },
+    "28": {
+      "gmail_user": "nenujdarodmknselcwbqa@gmail.com",
+      "gmail_pass": "huhyijwpopcnqgye",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body8.html"
+    },
+    "29": {
+      "gmail_user": "yylcudedlaede@gmail.com",
+      "gmail_pass": "vuuyyoirgikuirge",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body9.html"
+    },
+    "30": {
+      "gmail_user": "pjarvelwmptblkedek@gmail.com",
+      "gmail_pass": "jwkwddzsyazrntkw",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body10.html"
+    },
+
+    "31": {
+      "gmail_user": "eotgplticnoaicrfmcrsa@gmail.com",
+      "gmail_pass": "gqfypimenftufive",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body1.html"
+    },
+    "32": {
+      "gmail_user": "aelndodrsjnsigxtrusep@gmail.com",
+      "gmail_pass": "nxrlibycddkjzouq",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body2.html"
+    },
+    "33": {
+      "gmail_user": "nenujdarodmknselcwbqa@gmail.com",
+      "gmail_pass": "huhyijwpopcnqgye",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body3.html"
+    },
+    "34": {
+      "gmail_user": "yylcudedlaede@gmail.com",
+      "gmail_pass": "vuuyyoirgikuirge",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body4.html"
+    },
+    "35": {
+      "gmail_user": "pjarvelwmptblkedek@gmail.com",
+      "gmail_pass": "jwkwddzsyazrntkw",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body5.html"
+    },
+
+    "36": {
+      "gmail_user": "eotgplticnoaicrfmcrsa@gmail.com",
+      "gmail_pass": "gqfypimenftufive",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body6.html"
+    },
+    "37": {
+      "gmail_user": "aelndodrsjnsigxtrusep@gmail.com",
+      "gmail_pass": "nxrlibycddkjzouq",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body7.html"
+    },
+    "38": {
+      "gmail_user": "nenujdarodmknselcwbqa@gmail.com",
+      "gmail_pass": "huhyijwpopcnqgye",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body8.html"
+    },
+    "39": {
+      "gmail_user": "yylcudedlaede@gmail.com",
+      "gmail_pass": "vuuyyoirgikuirge",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body9.html"
+    },
+    "40": {
+      "gmail_user": "pjarvelwmptblkedek@gmail.com",
+      "gmail_pass": "jwkwddzsyazrntkw",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body10.html"
+    },
+
+    "41": {
+      "gmail_user": "eotgplticnoaicrfmcrsa@gmail.com",
+      "gmail_pass": "gqfypimenftufive",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body1.html"
+    },
+    "42": {
+      "gmail_user": "aelndodrsjnsigxtrusep@gmail.com",
+      "gmail_pass": "nxrlibycddkjzouq",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body2.html"
+    },
+    "43": {
+      "gmail_user": "nenujdarodmknselcwbqa@gmail.com",
+      "gmail_pass": "huhyijwpopcnqgye",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body3.html"
+    },
+    "44": {
+      "gmail_user": "yylcudedlaede@gmail.com",
+      "gmail_pass": "vuuyyoirgikuirge",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body4.html"
+    },
+    "45": {
+      "gmail_user": "pjarvelwmptblkedek@gmail.com",
+      "gmail_pass": "jwkwddzsyazrntkw",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body5.html"
+    },
+
+    "46": {
+      "gmail_user": "eotgplticnoaicrfmcrsa@gmail.com",
+      "gmail_pass": "gqfypimenftufive",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body6.html"
+    },
+    "47": {
+      "gmail_user": "aelndodrsjnsigxtrusep@gmail.com",
+      "gmail_pass": "nxrlibycddkjzouq",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body7.html"
+    },
+    "48": {
+      "gmail_user": "nenujdarodmknselcwbqa@gmail.com",
+      "gmail_pass": "huhyijwpopcnqgye",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body8.html"
+    },
+    "49": {
+      "gmail_user": "yylcudedlaede@gmail.com",
+      "gmail_pass": "vuuyyoirgikuirge",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body9.html"
+    },
+    "50": {
+      "gmail_user": "pjarvelwmptblkedek@gmail.com",
+      "gmail_pass": "jwkwddzsyazrntkw",
+      "from_name": "Support Team",
+      "subject": "Important Account Notice",
+      "body_url": "https://weathertomorrow.sbs/bodies/body10.html"
+    }
+  }
+}
